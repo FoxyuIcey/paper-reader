@@ -1,0 +1,20 @@
+{
+  "id": "reading-recall",
+  "title": "Does retrieval practice improve long-term recall?",
+  "groups": [
+    {"id":"question","page":1,"section":"Abstract","label":"研究问题","cue":"主动回忆有用吗？","beginner":"作者比较两种复习方式：重读材料，或合上材料尝试回忆。七天后用同一套评分标准检查记住了多少。","advanced":"主估计量是七天后自由回忆得分的组间均值差。实验只涉及短篇说明文。","paragraphs":[
+      ["Retrieval practice asks learners to recall material without looking at it. We tested whether this strategy improved delayed recall relative to spending the same amount of time rereading.","两组复习时间相同，区别在于是否主动提取信息。","对照匹配了复习时长，但两种任务的认知负荷可能不同。"],
+      ["In this teaching example, participants who practiced retrieval recalled more idea units after seven days. The result describes memory for the studied text, rather than transfer to unfamiliar problems.","七天后记得更多，说明原材料保留得更好。","测量终点是已学材料的保持，迁移能力超出测量范围。"]]},
+    {"id":"hypothesis","page":1,"section":"1. Introduction","label":"研究假设","cue":"为什么重读可能不够？","beginner":"读起来熟悉容易让人觉得自己已经掌握。主动回忆会暴露遗漏，帮助检验真正记住了什么。","advanced":"熟悉感和可提取性是作者用来解释结果的概念。本实验没有直接测量熟悉感。","paragraphs":[
+      ["Rereading increases exposure to a text and can make it feel familiar. Familiarity while the text is visible may differ from the ability to recall its ideas later without a prompt.","能认出一句话和能自己回想起它，是两种任务。","作者区分识别和自由回忆，但设计只测量了后者。"],
+      ["We predicted that learners asked to recall ideas during practice would produce more idea units on a delayed free-recall test than learners asked to reread.","假设给出了明确方向，并指定了七天后的测试。","方向性假设对应延迟自由回忆的组间对比。"]]},
+    {"id":"design","page":2,"section":"2. Methods","label":"实验设计","cue":"两组如何保持可比？","beginner":"60 名参与者随机分组。两组先读同一篇文章，再用相同时间复习，最后都参加七天后的回忆测试。","advanced":"平行组随机分配、等时对照、评分者设盲。实施细节和基线分布仍是复核随机化质量所需的信息。","paragraphs":[
+      ["Sixty volunteers were randomly assigned to retrieval practice or rereading. Everyone studied the same passage for six minutes. In the next four minutes, one group wrote remembered ideas and the other reread the passage.","随机分组让两组的初始差异在平均意义上更可比。","随机分配支持组间因果比较，等时设计控制了练习时长。"],
+      ["After seven days, all participants wrote down everything they remembered. A scorer unaware of group assignment counted the number of correct idea units using a predefined rubric.","评分者不知道参与者属于哪组，可以减少评分偏差。","需要查看评分规则及评分者一致性，才能评估测量可靠性。"]]},
+    {"id":"results","page":2,"section":"3. Results","label":"关键证据","cue":"平均多记住了多少？","beginner":"主动回忆组平均记住 12.4 个观点，重读组为 9.8 个，平均相差 2.6 个观点。","advanced":"示例均值差为 +2.6 个观点，95% CI 为 [1.0, 4.2]。解读时应同时考虑效应大小和估计精度。","paragraphs":[
+      ["The retrieval group recalled a mean of 12.4 idea units, compared with 9.8 in the rereading group. The estimated mean difference was 2.6 idea units, with a 95% confidence interval of 1.0 to 4.2.","平均多记住了 2.6 个观点。区间反映估计的不确定性。","区间排除零，支持此设计中的正向均值差。"]]},
+    {"id":"limits","page":3,"section":"4. Discussion","label":"结论与局限","cue":"结论能推广到哪里？","beginner":"这项示例支持用主动回忆复习短文。要知道它能否帮助解题，还需要另做测试。","advanced":"结果适用于短篇材料的七日保持。跨材料、跨任务和更长期保持需要独立验证。","paragraphs":[
+      ["The results support retrieval practice for delayed recall of this passage. The experiment used one short text and a single follow-up interval, so broader conclusions require additional evidence.","文章的长度和测试间隔限制了结论的适用范围。","单一刺激材料限制了对其他材料的外推。"],
+      ["Future studies could compare different subject areas and include new problems that require applying an idea from the original text. Longer follow-up would help characterize how the advantage changes over time.","可以把测试换成应用题，看看理解能否迁移到新问题。","可预先定义保持与迁移为独立终点，并通过多个测量时间点估计效应变化。"]]}
+  ]
+}

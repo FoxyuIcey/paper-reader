@@ -1,0 +1,1 @@
+{"name":"paper-reader","version":"0.1.0","private":true,"type":"module","scripts":{"predev":"node scripts/assets.mjs","dev":"next dev","prebuild":"node scripts/assets.mjs","build":"next build","start":"next start"},"dependencies":{"next":"16","react":"19","react-dom":"19","pdfjs-dist":"5.4.624"}}
